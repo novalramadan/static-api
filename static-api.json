@@ -1,0 +1,12 @@
+[
+    {"nama": "Caterpie", "elemen": "Daun", "imageId": "Caterpe"},
+    {"nama": "Charmender", "elemen": "Api", "imageId": "charmender"},
+    {"nama": "Eevee", "elemen": "Udara", "imageId": "Eeve"},
+    {"nama": "Fennekin", "elemen": "Tanah", "imageId": "Fennekin"},
+    {"nama": "Gengar", "elemen": "Solar", "imageId": "Gengar"},
+    {"nama": "Jigglypuff", "elemen": "Cinta", "imageId": "Jigglypuff"},
+    {"nama": "Meowth", "elemen": "Udara", "imageId": "Meowth"},
+    {"nama": "Onix", "elemen": "Tanah", "imageId": "Onix"},
+    {"nama": "Pikachu", "elemen": "Listrik", "imageId": "Pikachu"},
+    {"nama": "Squirtle", "elemen": "Air", "imageId": "Squirtle"}
+]
