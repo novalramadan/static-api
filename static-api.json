@@ -1,7 +1,7 @@
 [
-    {"nama": "Caterpie", "elemen": "Daun", "imageId": "Caterpe"},
+    {"nama": "Caterpie", "elemen": "Daun", "imageId": "Caterpie"},
     {"nama": "Charmender", "elemen": "Api", "imageId": "charmender"},
-    {"nama": "Eevee", "elemen": "Udara", "imageId": "Eeve"},
+    {"nama": "Eevee", "elemen": "Udara", "imageId": "Eevee"},
     {"nama": "Fennekin", "elemen": "Tanah", "imageId": "Fennekin"},
     {"nama": "Gengar", "elemen": "Solar", "imageId": "Gengar"},
     {"nama": "Jigglypuff", "elemen": "Cinta", "imageId": "Jigglypuff"},
